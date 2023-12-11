@@ -10,3 +10,8 @@ main div {
 h1 {
   font-size: 2.5em;
 }
+
+/* cosa bisogna fare ogni volta che una branch è completa e bisogna RI-CONFLUIRLA dentro main?? */
+/* quello che farò NON SARÀ subito fare un merge di valerio-results-css dentro main! */
+/* per prima cosa, porto nuovamente IL MAIN dentro valerio-results-css */
+/* quando questo passaggio è completato, allora sì! porto valerio-results-css dentro main con un merge */
